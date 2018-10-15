@@ -12,20 +12,23 @@ Unzip the package file which you have downloaded, you will get these two folders
 
 * App
 * WordPress Helper Plugin
+* Quick Deploy
 
-Mostore source files are included in the _**App**_ folder, and another part is a helper plugin which is called "Mofect Mobile Assistant", it's included in the _**WordPress Helper Plugin**_ folder.
+Mostore source files are included in the _**App**_ folder, the deploy files are included in the _**Quick Deploy**_ folder and another part is a helper plugin which is called "Mofect Mobile Assistant", it's included in the _**WordPress Helper Plugin**_ folder.
 
 ### Upload APP Files To Your Server
 
-OK, let's to _**App**_ folder, you will see the following files and subfolders in _**App**_,  don't be dazzled, forget all things for a moment but except **build** folder. 
+OK, let's access to **Quick Deploy** folder, you will see the following files and subfolders,  don't be dazzled.
 
-![](.gitbook/assets/build-folder.png)
+![](.gitbook/assets/image%20%2821%29.png)
 
 Access to build/config/ folder, open config.js file with any text editor, the only thing you need to change is replace the website URL to your WordPress site link.  There's another configuration file is called manifest.json, you can refer to this [section](https://mostore.mofect.io/configure-app/manifest-configuration) to know what manifest.json is.
 
-![](.gitbook/assets/image%20%2826%29.png)
+You can also replace the favicon.png to yours, it will show up on the address bar of the browser.
 
-Then, please upload the whole 'build' folder to your server. The details of steps as below:
+![](.gitbook/assets/image%20%2827%29.png)
+
+Then, please upload the whole '**Quick Deploy**' folder to your server, and rename the folder. The details of steps as below:
 
 #### Deploy in subfolder:
 

@@ -10,7 +10,7 @@ description: >-
 
 Please go to Mofect  &gt; Mobile Configuration page, let's Emphatically see the first section: **APP Global Settings**.
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 1. **Mobile Web APP URL**: It depends how you deployed your App. For example, sub-site should be write as https://m.domain.com and if under the subfolder just write as https://domain.com/m
 2. **APP Name and Favicon:** App name will display as the page title of the web App as same as the favicon.
@@ -35,7 +35,7 @@ Let's go to website settings page, these options are only effect for the website
 
 If you enable the notification bar, then just check out your website on the smartphone, you will a notification bar appeared at the bottom of the page, it will remind and lead the visitors to enjoy your mobile web App.
 
-![Demo Site: https://demo.mofect.com/mostore](../.gitbook/assets/image%20%2824%29.png)
+![Demo Site: https://demo.mofect.com/mostore](../.gitbook/assets/image%20%2825%29.png)
 
 You can customize the text with the website settings options as well as disable the notification bar. 
 

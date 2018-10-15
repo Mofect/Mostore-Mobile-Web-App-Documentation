@@ -2,13 +2,13 @@
 
 In this section, we will introduce how to configure the APP side menu.  Let's check out the menu first.
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 The side menu is composed of different menu type sections like above: Product Category, Post Category, Page and External Link.
 
 OK, let's move to WordPress backend &gt; Mofect &gt; APP Menus page and add a new menu. The following screenshot shows you the menu section settings.
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 The most important setting is choose a menu section type. let's suppose to choose product category type. Then, scroll down the page, add the menu items.
 
