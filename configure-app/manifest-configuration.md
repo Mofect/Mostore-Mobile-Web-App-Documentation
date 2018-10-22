@@ -9,15 +9,15 @@ description: >-
 
 As same as the lang.js file, manifest.json is also included in both build and public folder. You should sync this file in both folders.
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 Edit manifest.json file, the first three settings are necessary to change to your own information.
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 The App icon path is the root folder of App, you can replace favicon.png to a same file name picture.
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 
 

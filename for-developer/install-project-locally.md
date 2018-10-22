@@ -16,7 +16,7 @@ You may wait for a new minutes, once all dependencies are installed, it will aut
 
 Then, you can preview the App on your local computer. We recommend to use Chrome browser and preview the App in iPhone mode via Developer Tools.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 
 
