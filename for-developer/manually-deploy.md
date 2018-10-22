@@ -1,6 +1,13 @@
+---
+description: >-
+  We have introduced how to install App through Mofect Mobile Assistant plugin.
+  For the developers, maybe you have customized and re-compiled the app files,
+  so you need to manually deploy app, right?
+---
+
 # Manually Deploy
 
-OK, let's access to **Quick Deploy** folder, you will see the following files and subfolders,  don't be dazzled.
+OK, after you run `npm run build` command to re-compiled the app files. let's access to **build** folder, you will see the following files and subfolders,  don't be dazzled.
 
 ![](../.gitbook/assets/image%20%2824%29.png)
 
@@ -10,7 +17,9 @@ You can also replace the favicon.png to yours, it will show up on the address ba
 
 ![](../.gitbook/assets/image%20%2830%29.png)
 
-Then, please upload the whole '**Quick Deploy**' folder to your server, and rename the folder. The details of steps as below:
+**Please note, you can also do the steps above in public folder before you run `npm run build` command.**
+
+Then, please upload the whole 'build' folder to your server, and rename the folder. The details of steps as below:
 
 #### Deploy in subfolder:
 

@@ -7,6 +7,8 @@ description: >-
 
 # Manifest Configuration
 
+By default, if you install App through Mofect mobile assistant plugin, the manifest.json file is already automatically generated. But maybe for some situations, you want to manually edit this file, please follow this guide.
+
 As same as the lang.js file, manifest.json is also included in both build and public folder. You should sync this file in both folders.
 
 ![](../.gitbook/assets/image%20%2834%29.png)
